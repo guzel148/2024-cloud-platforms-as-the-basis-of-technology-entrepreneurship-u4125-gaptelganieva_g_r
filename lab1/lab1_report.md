@@ -6,9 +6,7 @@ Group: U4125\
 Author: Gaptelganieva Guzel\
 Lab: Lab1\
 Date of create: 30.04.2024\
-Date of finished: \
-
-
+Date of finished:
 
 ## 1 
 В разделе Identity and Access Management (IAM) создала Service Account 
