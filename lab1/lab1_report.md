@@ -8,6 +8,8 @@ Lab: Lab1
 Date of create: 30.04.2024
 Date of finished:
 
+
+
 ## 1 
 В разделе Identity and Access Management (IAM) создала Service Account 
 ![image](https://github.com/guzel148/2024-cloud-platforms-as-the-basis-of-technology-entrepreneurship-u4125-gaptelganieva_g_r/assets/156536395/13ee7ae2-2da1-47e3-9d91-9c26f7e8e60c)
