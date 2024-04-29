@@ -24,7 +24,7 @@ Date of finished:
 ![image](https://github.com/guzel148/2024-cloud-platforms-as-the-basis-of-technology-entrepreneurship-u4125-gaptelganieva_g_r/assets/156536395/c36a0b9e-66a5-4525-9739-e03d1d17a8bb)
 ![image](https://github.com/guzel148/2024-cloud-platforms-as-the-basis-of-technology-entrepreneurship-u4125-gaptelganieva_g_r/assets/156536395/d8f6316a-3ea2-4203-a8e4-8adf9d4195cf)
 ## 5
-Вернулась в IAM и поменяла Service Account с Storage Admin на Compute Viewer (роль с ограниченным доступом) 
+Вернулась в IAM и поменяла Service Account с Storage Admin на Compute Viewer (роль с ограниченным доступом)
 ![image](https://github.com/guzel148/2024-cloud-platforms-as-the-basis-of-technology-entrepreneurship-u4125-gaptelganieva_g_r/assets/156536395/305b9bc0-7f93-4706-972d-5dac80c747de)
 ## 6
 Зашла в Computer Engine SSH. Теперь уже не получается это сделать, так как роль Compute Viewer не дает таких прав.
