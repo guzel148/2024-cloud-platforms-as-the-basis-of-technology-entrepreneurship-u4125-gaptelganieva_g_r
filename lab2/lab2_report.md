@@ -26,10 +26,10 @@ Date of finished:
 ### 5
 Меняю порт в контейнере на 8090
 ![image](https://github.com/guzel148/2024-cloud-platforms-as-the-basis-of-technology-entrepreneurship-u4125-gaptelganieva_g_r/assets/156536395/a6f2dc7e-c1a7-4c33-8eaf-bcf8f3e3b706)
-Появилась вторая версия с дргуим названием и по ссылке теперь открывается именно она
+Появилась вторая версия с другим названием, и по ссылке теперь открывается именно она
 ![image](https://github.com/guzel148/2024-cloud-platforms-as-the-basis-of-technology-entrepreneurship-u4125-gaptelganieva_g_r/assets/156536395/3f9ff127-d7ee-4113-8fe9-c3421573418c)
 ### 6
-Перевключаюсь между версиями и сомтрю, как это влияет на метрики
+Переключаюсь между версиями и смотрю, как это влияет на метрики
 ![image](https://github.com/guzel148/2024-cloud-platforms-as-the-basis-of-technology-entrepreneurship-u4125-gaptelganieva_g_r/assets/156536395/e248f6a1-c8c2-442f-aac0-5a4e3d98b0c9)
 Можно посмотреть развернутые графики и менять визуал
 ![image](https://github.com/guzel148/2024-cloud-platforms-as-the-basis-of-technology-entrepreneurship-u4125-gaptelganieva_g_r/assets/156536395/f5339441-4f64-4695-a343-4e7dc0b9e9f2)
