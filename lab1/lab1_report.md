@@ -31,3 +31,5 @@ Date of finished:
 ### 6
 Зашла в Computer Engine SSH. Теперь уже не получается это сделать, так как роль Compute Viewer не дает таких прав.
 ![image](https://github.com/guzel148/2024-cloud-platforms-as-the-basis-of-technology-entrepreneurship-u4125-gaptelganieva_g_r/assets/156536395/f4b92e84-1b79-44e9-9169-2ce563de5245)
+
+### Итак, с помощью Google Cloud можно сформировать структуру команды проекта, а также создавать и контролировать уровень прав ее участников и доступа к различным утилитам на базе выданной им роли. За это отвечает вкладка Secice Account.
