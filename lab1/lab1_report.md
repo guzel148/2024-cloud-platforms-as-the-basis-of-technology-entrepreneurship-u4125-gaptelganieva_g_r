@@ -30,4 +30,4 @@ Date of finished:
 ![image](https://github.com/guzel148/2024-cloud-platforms-as-the-basis-of-technology-entrepreneurship-u4125-gaptelganieva_g_r/assets/156536395/305b9bc0-7f93-4706-972d-5dac80c747de)
 ### 6
 Зашла в Computer Engine SSH. Теперь уже не получается это сделать, так как роль Compute Viewer не дает таких прав.
-![image](https://github.com/guzel148/2024-cloud-platforms-as-the-basis-of-technology-entrepreneurship-u4125-gaptelganieva_g_r/assets/156536395/5f8b21e6-5c7b-44c4-8a29-04b382c8786b)
+![image](https://github.com/guzel148/2024-cloud-platforms-as-the-basis-of-technology-entrepreneurship-u4125-gaptelganieva_g_r/assets/156536395/f4b92e84-1b79-44e9-9169-2ce563de5245)
