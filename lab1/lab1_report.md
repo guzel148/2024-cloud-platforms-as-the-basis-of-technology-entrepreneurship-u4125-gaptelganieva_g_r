@@ -6,7 +6,7 @@ Group: U4125\
 Author: Gaptelganieva Guzel\
 Lab: Lab1\
 Date of create: 30.04.2024\
-Date of finished:
+Date of finished: 03.05.2024
 
 ## Лабораторная работа №1 "Обзор Google Cloud и исследование основных сервисов."
 
