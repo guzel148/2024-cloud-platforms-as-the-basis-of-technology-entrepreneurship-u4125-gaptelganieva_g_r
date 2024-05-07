@@ -6,7 +6,7 @@ Group: U4125\
 Author: Gaptelganieva Guzel\
 Lab: Lab3\
 Date of create: 30.04.2024\
-Date of finished:
+Date of finished: 03.05.2024
 
 ## Лабораторная работа №3 "Исследование Cloud Storage"
 ### 1
